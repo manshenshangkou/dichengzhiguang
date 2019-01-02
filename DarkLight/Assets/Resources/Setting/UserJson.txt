@@ -1,0 +1,1 @@
+{"UserList":[{"Hp":0,"MaxHp":0,"Attack":0,"Speed":0}]}

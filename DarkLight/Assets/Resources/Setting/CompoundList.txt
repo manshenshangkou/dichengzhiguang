@@ -1,0 +1,51 @@
+[{
+		"ResID": "2006",
+		"Item1ID": "2005",
+		"Item1Amount": "1",
+		"Item2ID": "2005",
+		"Item2Amount": "1"
+	},
+	{
+		"ResID": "2008",
+		"Item1ID": "2007",
+		"Item1Amount": "1",
+		"Item2ID": "2007",
+		"Item2Amount": "1"
+	},
+	{
+		"ResID": "2010",
+		"Item1ID": "2009",
+		"Item1Amount": "1",
+		"Item2ID": "2009",
+		"Item2Amount": "1"
+	},
+	{
+		"ResID": "2012",
+		"Item1ID": "2011",
+		"Item1Amount": "1",
+		"Item2ID": "2011",
+		"Item2Amount": "1"
+	},
+	{
+		"ResID": "2015",
+		"Item1ID": "2012",
+		"Item1Amount": "1",
+		"Item2ID": "2011",
+		"Item2Amount": "2"
+	},
+	{
+		"ResID": "2019",
+		"Item1ID": "2017",
+		"Item1Amount": "2",
+		"Item2ID": "2018",
+		"Item2Amount": "1"
+	},
+	{
+		"ResID": "2021",
+		"Item1ID": "2022",
+		"Item1Amount": "2",
+		"Item2ID": "2023",
+		"Item2Amount": "1"
+	}
+
+]

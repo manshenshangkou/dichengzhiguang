@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Analysis">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Analysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="m_ItemButton" Collapsed="true">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAAAAACAAAAAAAAAAAAAAADAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\m_ItemButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="m_UIManager" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAjAAACAAAAQAEAgAAAABBKAAQACCCEAAAASAQAA=</HashCode>
+      <FileName>Assets\m_UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQBAAECAAAAAAAAAAAAABAIAAAAAAQAAAAAAAQEA=</HashCode>
+      <FileName>Assets\Nature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserModel">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAABAIAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserModelList">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoodsModel">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAAAAAAAAAAAAAAAYQAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoodsModelList">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Save">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
